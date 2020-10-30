@@ -12,5 +12,7 @@ I enjoyed thinking through the logic for each step and it was interesting to pla
 * What didn't go as planned?
 I don't think the code is very clean so to an outsider it may not be very clear, but I don't think this is an issue for this project because it was more about the learning. Now that I've done it once I'll know how to layout it out cleaner.
 
+My design is also very basic so I need to work on my creativity skills.
+
 * Possible improvements for future revisions of the project.
 No improvements, was a fun challenge.
